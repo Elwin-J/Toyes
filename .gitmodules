@@ -1,0 +1,3 @@
+[submodule "Dining-Philosopher-Visualized"]
+	path = Dining-Philosopher-Visualized
+	url = ./Dining-Philosopher-Visualized
