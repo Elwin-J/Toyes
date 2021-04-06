@@ -6,4 +6,5 @@ So far it has:
 <li> Visualization of the Dining Philosopher Problem </li>
 <li> Playing Pong using Sockets and socket connections </li>
 </ul>
+(Note: these are not done yet!)
 More to come soon! (hopefully)
