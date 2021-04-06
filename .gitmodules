@@ -1,0 +1,3 @@
+[submodule "Dining-Philosopher-Visualized"]
+	path = Dining-Philosopher-Visualized
+	url = https://github.com/Elwin-J/Dining-Philosopher-Visualized.git
